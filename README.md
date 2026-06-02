@@ -39,16 +39,13 @@ This project demonstrates the development of a Management Information System (MI
 ## Dashboard Preview
 
 ### Main Dashboard
-
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### KPI Section
-
-![KPI](Screenshots/KPI_sections.png)
+![KPI](KPI_sections.png)
 
 ### Pivot Tables
-
-![Sales Analysis](Screenshots/Pivot_tables.png)
+![Pivot Tables](Pivot_tables.png)
 
 ## Files Included
 
